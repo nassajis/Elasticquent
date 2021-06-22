@@ -73,7 +73,7 @@ Before you start using Elasticquent, make sure you've installed [Elasticsearch](
 
 To get started, add Elasticquent to you composer.json file:
 
-    "elasticquent/elasticquent": "dev-master"
+    "nassajis/elasticquent": "dev-master"
 
 Once you've run a `composer update`, you need to register Laravel service provider, in your `config/app.php`:
 
